@@ -1,0 +1,20 @@
+{
+  "name": "satobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commando-provider-mongo": "^2.1.0",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "git+https://github.com/discordjs/commando.git",
+    "mongodb": "^3.6.9",
+    "mongoose": "^5.12.14",
+    "quick.db": "^7.1.3"
+  }
+}

@@ -1,1 +1,1 @@
-# SatoBot
+# Sato-Bot
